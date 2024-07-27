@@ -1,0 +1,39 @@
+.dark-background{
+   background-color: black;
+   text-align: center;
+}
+
+.bulb-img {
+   height: 30vh;
+}
+
+.cat-img {
+   height: 30vh;
+}
+
+.switch-board {
+   background-color: #7b8794;
+   width: 50%;
+   font-weight: 400;
+   color: white;
+   font-size: 25px;
+   border-radius: 12px;
+}
+
+.off-swith-btn{
+   width: 70px;
+   background-color: red;
+   color: white;
+   font-weight: bold;
+   padding: 2px;
+   margin: 2px;
+}
+
+.on-swith-btn {
+   width: 70px;
+   background-color: #cbd2d9;
+   color: white;
+   font-weight: bold;
+   padding: 2px;
+   margin: 2px;
+}
