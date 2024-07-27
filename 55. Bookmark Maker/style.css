@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #2d3a8c;
+    color: #ffffff;
+    padding-top: 10px;
+    font-family: Roboto;
+}
+
+.greeting {
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.name {
+    font-size: 24px;
+}
+
+.bookmark-container {
+    background-color: #ffffff;
+    color: #323f4b;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 15px;
+    width: 100%;
+    border: 1px solid #e4e7eb;
+}
+
+.main-heading {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.form-container {
+    background-color: #f5f7fa;
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+    border-radius: 15px;
+    border: 1px solid #cbd2d9;
+}
+
+.label-name {
+    color: #7b8794;
+    font-size: 12px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #21396c;
+    color: #ffffff;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.list-type {
+    list-style: none;
+}
